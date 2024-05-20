@@ -57,7 +57,4 @@ if you are running the project locally, the project folder should be placed in t
     password:   qwertyuiop
   
 
-## Contribution Guidelines
-
-If you want to contribute to this project, please refer to the [Contributing Guidelines](CONTRIBUTING.MD).
 
