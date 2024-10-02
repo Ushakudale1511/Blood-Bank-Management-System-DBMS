@@ -31,10 +31,6 @@ if you are running the project locally, the project folder should be placed in t
 - css
 - sql
 
-### Development Environment
-
-- Windows 10
-
 ### External Resources/Plugins
 
 - XAMPP
